@@ -1,0 +1,131 @@
+M:\C#\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+M:\C#\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+M:\C#\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+M:\C#\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+M:\C#\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+F:\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+F:\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+F:\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+F:\#c\הגשת שב\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_14_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_13_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_15_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_13_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_16_2_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_13_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_14_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_15_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_13_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_14_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_16_2_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_14_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\123_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\456_14_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_16_2_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\321_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\741_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\852_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\321_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\741_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_16_2_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\789_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Dal\bin\Debug\net8.0\Data\852_15_1_2025.json

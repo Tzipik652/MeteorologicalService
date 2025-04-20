@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "CreateStation",
+    "RelativePath": "MeteorologicalService/CreateStation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newStation",
+        "Type": "Bl.Models.BlMeasuringStation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "DataLoading",
+    "RelativePath": "MeteorologicalService/DataLoading",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Bl.Models.BlMeasuringStation, Bl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "DataRetrieval",
+    "RelativePath": "MeteorologicalService/DataRetrieval",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "ExportData",
+    "RelativePath": "MeteorologicalService/ExportData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "GetSummaryOfMeasurement",
+    "RelativePath": "MeteorologicalService/GetSummaryOfMeasurement",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.MeteorologicalServiceController",
+    "Method": "RetrievingAListOfMeasurementsForAStation",
+    "RelativePath": "MeteorologicalService/RetrievingAListOfMeasurementsForAStation/{stationNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stationNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

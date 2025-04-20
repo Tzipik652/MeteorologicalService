@@ -1,0 +1,782 @@
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.exe
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.deps.json
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.runtimeconfig.json
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.pdb
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Core.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Identity.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Humanizer.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.ClientModel.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.CodeDom.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Formats.Asn1.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IO.Pipelines.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Memory.Data.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Json.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+M:\C#\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.AssemblyReference.cache
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfoInputs.cache
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfo.cs
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.CoreCompileInputs.cache
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectS.655C1303.Up2Date
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.dll
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\refint\ProjectSummary.dll
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.pdb
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.genruntimeconfig.cache
+M:\C#\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ref\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.exe
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Humanizer.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectS.655C1303.Up2Date
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\refint\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ref\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.pdb
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.exe
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.deps.json
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.runtimeconfig.json
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.pdb
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Core.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Identity.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Humanizer.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.ClientModel.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.CodeDom.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Memory.Data.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Json.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.pdb
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.AssemblyReference.cache
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.GeneratedMSBuildEditorConfig.editorconfig
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfoInputs.cache
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfo.cs
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.CoreCompileInputs.cache
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectS.655C1303.Up2Date
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\refint\ProjectSummary.dll
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.pdb
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.genruntimeconfig.cache
+F:\#c\הגשת שב\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ref\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.exe
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Humanizer.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectS.655C1303.Up2Date
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\refint\ProjectSummary.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ref\ProjectSummary.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.AssemblyReference.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.GeneratedMSBuildEditorConfig.editorconfig
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfoInputs.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.AssemblyInfo.cs
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.csproj.CoreCompileInputs.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\refint\ProjectSummary.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.exe
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Data\123_13_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Data\123_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Data\123_15_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Data\456_13_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Data\456_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Data\789_16_2_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.deps.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.runtimeconfig.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ProjectSummary.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Core.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Azure.Identity.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Humanizer.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.ClientModel.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.CodeDom.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Memory.Data.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Text.Json.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Bl.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\bin\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectS.655C1303.Up2Date
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ProjectSummary.genruntimeconfig.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\ProjectSummary\obj\Debug\net8.0\ref\ProjectSummary.dll

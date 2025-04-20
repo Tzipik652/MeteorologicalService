@@ -1,0 +1,408 @@
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.exe
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_14_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.Development.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.exe
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_13_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_15_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_13_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_14_1_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_16_2_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.deps.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Core.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Identity.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.ClientModel.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Memory.Data.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Json.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.development.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.pack.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\refint\Server.dll
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.pdb
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\ref\Server.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.Development.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.exe
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_13_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_14_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_15_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_13_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_14_1_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_16_2_2025.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.deps.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.pdb
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Core.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Identity.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.ClientModel.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Memory.Data.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Json.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.pdb
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.pdb
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\refint\Server.dll
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.pdb
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+D:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\appsettings.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.exe
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_14_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\123_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_13_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\456_14_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_16_2_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Bl.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Dal.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\852_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\321_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\לא גמור פרויקט סיכום גיבויים\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\741_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\321_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\741_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_9_3_2025.json
+F:\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\852_15_1_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\321_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\741_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_16_2_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\789_9_3_2025.json
+C:\Users\tzipi\Desktop\לימודים\#c\הגשת שב\MeteorologicalService\ProjectSummary\Server\bin\Debug\net8.0\Data\852_15_1_2025.json

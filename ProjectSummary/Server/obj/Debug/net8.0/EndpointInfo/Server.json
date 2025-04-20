@@ -1,0 +1,196 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Server",
+    "version": "1.0"
+  },
+  "paths": {
+    "/MeteorologicalService/DataLoading": {
+      "get": {
+        "tags": [
+          "MeteorologicalService"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BlMeasuringStation"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BlMeasuringStation"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BlMeasuringStation"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/MeteorologicalService/DataRetrieval": {
+      "get": {
+        "tags": [
+          "MeteorologicalService"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/MeteorologicalService/RetrievingAListOfMeasurementsForAStation/{stationNumber}": {
+      "get": {
+        "tags": [
+          "MeteorologicalService"
+        ],
+        "parameters": [
+          {
+            "name": "stationNumber",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/MeteorologicalService/GetSummaryOfMeasurement": {
+      "get": {
+        "tags": [
+          "MeteorologicalService"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/MeteorologicalService/ExportData": {
+      "post": {
+        "tags": [
+          "MeteorologicalService"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/MeteorologicalService/CreateStation": {
+      "post": {
+        "tags": [
+          "MeteorologicalService"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BlMeasuringStation"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BlMeasuringStation"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BlMeasuringStation"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BlMeasurement": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "measurementTime": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "temperature": {
+            "type": "number",
+            "format": "double"
+          },
+          "amountOfRain": {
+            "type": "number",
+            "format": "double"
+          },
+          "windSpeed": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "BlMeasuringStation": {
+        "type": "object",
+        "properties": {
+          "stationNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "stationAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "town": {
+            "type": "string",
+            "nullable": true
+          },
+          "stationManager": {
+            "type": "string",
+            "nullable": true
+          },
+          "measurements": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/BlMeasurement"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

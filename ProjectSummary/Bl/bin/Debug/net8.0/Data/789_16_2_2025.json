@@ -1,0 +1,26 @@
+[
+    {
+        "measurementTime": "08:49",
+        "temperature": -2,
+        "amountOfRain": 17,
+        "windSpeed": 5
+    },
+    {
+        "measurementTime": "15:35",
+        "temperature": 1,
+        "amountOfRain": 10,
+        "windSpeed": 10
+    },
+    {
+        "measurementTime": "20:27",
+        "temperature": 0,
+        "amountOfRain": 6,
+        "windSpeed": 10
+    },
+    {
+        "measurementTime": "23:55",
+        "temperature": 0,
+        "amountOfRain": 10,
+        "windSpeed": 99
+    }
+]
